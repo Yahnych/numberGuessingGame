@@ -9,6 +9,9 @@ This code requires a familiarity with Elm using the `StartApp`
 architecture, and a level of understanding up to about Example #5 in
 the Elm Architecture examples.
 
+For simplicity, this version of the game doesn't use random numbers. But, if you understand how
+all this code works, [Take a look at the next version, which included a random number generator.](https://github.com/kittykatattack/randomNumberGame).
+
 Structure
 --------
 
@@ -261,4 +264,4 @@ gameMessage model =
         ++ "Game Over!" ++ stateMessage model
 
 ```
-
+If you understand how all this works, [Take a look at the next version, which inlcudes a random number generator](https://github.com/kittykatattack/randomNumberGame).
