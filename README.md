@@ -7,7 +7,7 @@ output. [Click here to play the game.](https://gitcdn.xyz/repo/kittykatattack/nu
 
 This code requires a familiarity with Elm using the `StartApp`
 architecture, and a level of understanding up to about Example #5 in
-the Elm Architecture examples.
+the [Elm Architecture examples](https://github.com/evancz/elm-architecture-tutorial).
 
 For simplicity, this version of the game doesn't use random numbers. But, if you understand how
 all this code works, [Take a look at the next version, which includes a random number generator.](https://github.com/kittykatattack/randomNumberGame).
